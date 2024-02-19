@@ -1,33 +1,32 @@
-# Project Description
-**Mentalmatics**. This project is ICO platform the ***Mentalmatics*** project. This project is consist of smart contract and frontend & Web3 part.
-1. Smart contract is consist of 3 main parts - Token Sale, Token Vesting, Token Staking. In this repo, the smart contract has one repo - ***smart contract***.
-2. Frontend & Web3 part - Each smart contracts has their frontend and web3 part. The frontend is built by Next.js and this is used as a iframe on Wix site
+This is a [RainbowKit](https://rainbowkit.com) + [wagmi](https://wagmi.sh) + [Next.js](https://nextjs.org/) project bootstrapped with [`create-rainbowkit`](https://github.com/rainbow-me/rainbowkit/tree/main/packages/create-rainbowkit).
 
-## Smart Contract Addresses:
-*All Smart contracts are deployed on BSC Mainnet, BSC Testnet and Sepolia Testnet. In this section, we will provide the detailed address on mainnet and testnet*
+## Getting Started
 
-**USDT Contract**:
- - BSC Mainnet : 0x55d398326f99059fF775485246999027B3197955
- - BSC Testnet: 0x466a8d1B5017175bfbd3DCa396568BC70bD73609
- - Sepolia Testnet: 0xaA8E23Fb1079EA71e0a56F48a2aA51851D8433D0
+First, run the development server:
 
-**Mentalmatic Token Contract** : 
- - BSC Mainnet : 0x875F5F5A7c8823059E4D2Bd8A8B35a180c2E0e8e
- - BSC Testnet: 0x46A4ee4e8Ce04116c989e3C1Dff8D3E1C58091a0
- - Sepolia Testnet: 0x92f24CA795cD6cA6A78b980628045a85919A8E6D
+```bash
+npm run dev
+```
 
-> [!NOTE]
-> Token Sale contracts, Token Staking Contract are on the developing stage. Coming Soon!
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+
+## Learn More
+
+To learn more about this stack, take a look at the following resources:
+
+- [RainbowKit Documentation](https://rainbowkit.com) - Learn how to customize your wallet connection flow.
+- [wagmi Documentation](https://wagmi.sh) - Learn how to interact with Ethereum.
+- [Next.js Documentation](https://nextjs.org/docs) - Learn how to build a Next.js application.
+
+You can check out [the RainbowKit GitHub repository](https://github.com/rainbow-me/rainbowkit) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 
-## UI Design for Mentalmatics project
-
-### Token Sale Page
-**Release UI**
-
- - Before Wallet Connect
- ![Before Wallet Connet](https://github.com/crazylucasy/Mentalmatics/blob/main/assets/TokenSale_BeforeWalletConnect.png)
-
-- After Wallet Connect
-![After Wallet Connet](https://github.com/crazylucasy/Mentalmatics/blob/main/assets/TokenSale_AfterWalletConnect.png.png)
-
+# Main USDT sent ADDRESS on BSC : 0x875F5F5A7c8823059E4D2Bd8A8B35a180c2E0e8e
