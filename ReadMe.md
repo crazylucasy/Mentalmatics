@@ -26,4 +26,8 @@
 **Release UI**
 
  - Before Wallet Connect
- 
+ ![Before Wallet Connet](https://github.com/crazylucasy/Mentalmatics/blob/main/assets/TokenSale_BeforeWalletConnect.png)
+
+- After Wallet Connect
+![After Wallet Connet](https://github.com/crazylucasy/Mentalmatics/blob/main/assets/TokenSale_AfterWalletConnect.png.png)
+
